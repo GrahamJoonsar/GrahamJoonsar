@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 
 ![Grahams's github stats](https://github-readme-stats.vercel.app/api?username=GrahamJoonsar)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamJoonsar)](https://github.com/GrahamJoonsar/github-readme-stats)

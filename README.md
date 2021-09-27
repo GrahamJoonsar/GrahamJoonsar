@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Grahams's github stats](https://github-readme-stats.vercel.app/api?username=GrahamJoonsar)
+![Ed's github stats](https://github-readme-stats.vercel.app/api?username=EdwardHackney)

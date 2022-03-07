@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Grahams's github stats](https://github-readme-stats.vercel.app/api?username=GrahamJoonsar)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrahamJoonsar&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GrahamJoonsar&theme=white" width="48%" >
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamJoonsar)](https://github.com/GrahamJoonsar/github-readme-stats)

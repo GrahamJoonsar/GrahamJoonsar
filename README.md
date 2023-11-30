@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Grahams's github stats](https://github-readme-stats.vercel.app/api?username=GrahamJoonsar)
+<!-- ![Grahams's github stats](https://github-readme-stats.vercel.app/api?username=GrahamJoonsar) -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrahamJoonsar&theme=white" width="48%" >
 

@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrahamJoonsar&theme=white" width="48%" >
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamJoonsar)](https://github.com/GrahamJoonsar/github-readme-stats)
-
-(I use c++ more than c but a two file graphics library that I use contributes a lot of lines to the above count ^^^)
